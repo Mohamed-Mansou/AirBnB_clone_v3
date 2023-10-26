@@ -154,9 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Mohamed Mansour  <moyamed2mansour@gmail.com>
-Marwan Fouz   <Marwanfouz76@gmail.com>
+--- Mohamed Mansour  <moyamed2mansour@gmail.com>
 
-Second part of Airbnb: Joann Vuong
+--- Marwan Fouz   <Marwanfouz76@gmail.com>
 ## License
 Public Domain. No copy write protection. 
